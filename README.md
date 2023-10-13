@@ -53,7 +53,7 @@ Esta asignatura es de carácter teórico-práctico, en la que se desarrollan los
 
 ### Rubricas
 
-* Presentaciónes articulos cientificos [link 1](https://www.dropbox.com/scl/fo/o77x9kxwgd9jpmd30gvpe/h?rlkey=rdn6kfruhew671obbi3nkptak&dl=0).
+* Presentaciónes artículos científicos [link 1](https://www.dropbox.com/scl/fo/o77x9kxwgd9jpmd30gvpe/h?rlkey=rdn6kfruhew671obbi3nkptak&dl=0).
 * Proyecto final [link 2](https://www.dropbox.com/scl/fo/o77x9kxwgd9jpmd30gvpe/h?rlkey=rdn6kfruhew671obbi3nkptak&dl=0).
 
 ### Clases videos
