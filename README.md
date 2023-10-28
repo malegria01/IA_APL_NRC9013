@@ -60,3 +60,14 @@ Esta asignatura es de carácter teórico-práctico, en la que se desarrollan los
 
 * Links [link 1](https://www.dropbox.com/scl/fi/yt0j85mfwp68rliqr0ca4/Videos.docx?rlkey=rncoshzfz3pwyeok7ahws17zo&dl=0).
 
+
+# Prof: Melissa Alegría.
+
+### Tema
+Procesamiento de datos satelitales. Análisis de imágenes de satélites para agricultura, meteorología, etc.
+
+En la siguiente ppt encontraras un resumen de los temas fundamentales que deberias conocer hasta aquí y el colab asociado a la actividad práctica.
+
+[PPT](https://drive.google.com/file/d/1wOuWg_x80Zfy77DavJhoO8-_sfqMhVY9/view?usp=drive_link)
+
+[Datos](https://drive.google.com/drive/folders/1QHnmvJwKeCSoV54_VeqLyUoHHnXZsIDo?usp=sharing)
