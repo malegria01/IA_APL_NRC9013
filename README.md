@@ -71,3 +71,6 @@ En la siguiente ppt encontraras un resumen de los temas fundamentales que deberi
 [PPT](https://drive.google.com/file/d/1wOuWg_x80Zfy77DavJhoO8-_sfqMhVY9/view?usp=drive_link)
 
 [Datos](https://drive.google.com/drive/folders/1QHnmvJwKeCSoV54_VeqLyUoHHnXZsIDo?usp=sharing)
+
+[Colab] (https://colab.research.google.com/drive/1yQDzr1JP6KGD7aSTYTh2djigkeTENF38#scrollTo=QxEo8WKIlnd0)
+
