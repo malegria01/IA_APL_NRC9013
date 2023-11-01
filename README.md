@@ -74,3 +74,6 @@ En la siguiente ppt encontraras un resumen de los temas fundamentales que deberi
 
 [Colab](https://colab.research.google.com/drive/1yQDzr1JP6KGD7aSTYTh2djigkeTENF38#scrollTo=QxEo8WKIlnd0)
 
+
+[PPT Proyecto](https://drive.google.com/file/d/1b7j6ayGNIEenVl6zV0dU1MU323gO62sH/view?usp=sharing)
+
